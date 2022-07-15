@@ -1,0 +1,230 @@
+1657864877460	geckodriver	INFO	Listening on 127.0.0.1:48251
+1657864877905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45479" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileO5283B"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657864884792	Marionette	INFO	Marionette enabled
+1657864884831	Marionette	INFO	Listening on port 46547
+WebDriver BiDi listening on ws://localhost:45479
+Read port: 46547
+1657864886110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileO5283B/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45479/devtools/browser/d5b47525-dc55-41b0-a7d4-6e794fd45f85
+1657864910816	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-07-15T06:01:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-15T06:01:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-15T06:01:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-15T06:01:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 8707, MediaDecoderStateMachine #1] WARNING: Decoder=7fcc843f1800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 8707, MediaDecoderStateMachine #1] WARNING: Decoder=7fcc8434c700 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 8707, MediaDecoderStateMachine #1] WARNING: Decoder=7fcc843f1500 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 8707, MediaDecoderStateMachine #1] WARNING: Decoder=7fcc843f1200 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1657865144587	geckodriver	INFO	Listening on 127.0.0.1:43743
+1657865144616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35775" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5pteyc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657865150462	Marionette	INFO	Marionette enabled
+1657865150478	Marionette	INFO	Listening on port 43651
+WebDriver BiDi listening on ws://localhost:35775
+Read port: 43651
+1657865151232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5pteyc/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:35775/devtools/browser/6ac6981b-ea19-45a5-ac34-571c0393d8f4
+1657865174177	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-07-15T06:06:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-15T06:06:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-15T06:06:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 10969, MediaDecoderStateMachine #1] WARNING: Decoder=7f55a6e74600 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 10969, MediaDecoderStateMachine #1] WARNING: Decoder=7f55a6e74000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 10969, MediaDecoderStateMachine #1] WARNING: Decoder=7f55a6e75800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1657865317002	Marionette	INFO	Stopped listening on port 43651
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657865321803	geckodriver	INFO	Listening on 127.0.0.1:45667
+1657865322328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezDJ8iO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657865326429	Marionette	INFO	Marionette enabled
+1657865326449	Marionette	INFO	Listening on port 39217
+WebDriver BiDi listening on ws://localhost:58921
+Read port: 39217
+1657865327202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezDJ8iO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:58921/devtools/browser/01385c72-e757-4227-8e81-28bc2de65752
+1657865352451	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-07-15T06:09:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-15T06:09:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-15T06:09:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-15T06:09:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 11927, MediaDecoderStateMachine #1] WARNING: Decoder=7f78b7cda400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 11927, MediaDecoderStateMachine #1] WARNING: Decoder=7f78be09df00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 11927, MediaDecoderStateMachine #1] WARNING: Decoder=7f78be09d600 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 11927, MediaDecoderStateMachine #1] WARNING: Decoder=7f78be378800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1657865390533	Marionette	INFO	Stopped listening on port 39217
+1657865410430	geckodriver	INFO	Listening on 127.0.0.1:47725
+1657865410452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilespj3Fd"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657865414758	Marionette	INFO	Marionette enabled
+1657865414780	Marionette	INFO	Listening on port 41587
+WebDriver BiDi listening on ws://localhost:58673
+Read port: 41587
+1657865415612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilespj3Fd/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58673/devtools/browser/a80712f4-eb60-4d34-bebe-39bf687a53f4
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1657865437188	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-07-15T06:10:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-15T06:10:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-15T06:10:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-15T06:10:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 12816, MediaDecoderStateMachine #1] WARNING: Decoder=7f3ccb537a00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 12816, MediaDecoderStateMachine #1] WARNING: Decoder=7f3ccd97e500 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 12816, MediaDecoderStateMachine #1] WARNING: Decoder=7f3ccd97e800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 12816, MediaDecoderStateMachine #1] WARNING: Decoder=7f3ccd97d600 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1657865704556	Marionette	INFO	Stopped listening on port 41587
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657865709205	geckodriver	INFO	Listening on 127.0.0.1:35953
+1657865709230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexXPI0a"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657865713774	Marionette	INFO	Marionette enabled
+1657865713798	Marionette	INFO	Listening on port 34271
+Read port: 34271
+WebDriver BiDi listening on ws://localhost:54499
+1657865714699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexXPI0a/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54499/devtools/browser/0452c975-08bb-4fd3-913f-5262c339f74a
+1657865736962	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-07-15T06:15:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-15T06:15:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-15T06:15:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 14332, MediaDecoderStateMachine #1] WARNING: Decoder=7fa1d76b1f00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 14332, MediaDecoderStateMachine #1] WARNING: Decoder=7fa1d76b2500 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 14332, MediaDecoderStateMachine #1] WARNING: Decoder=7fa1d76b1000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[2022-07-15T06:15:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 14332, MediaDecoderStateMachine #1] WARNING: Decoder=7fa1d76b3100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 14332, MediaDecoderStateMachine #1] WARNING: Decoder=7fa1d76b3100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:545:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2121:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+1657866116805	geckodriver	INFO	Listening on 127.0.0.1:36883
+1657866116828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTXLn62"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657866121693	Marionette	INFO	Marionette enabled
+1657866121710	Marionette	INFO	Listening on port 42847
+WebDriver BiDi listening on ws://localhost:48385
+Read port: 42847
+1657866122563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTXLn62/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48385/devtools/browser/1082d6a0-edcb-4a8c-ab28-e1781403c48b
+1657866143488	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-07-15T06:22:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-15T06:22:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-15T06:22:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-15T06:22:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 16309, MediaDecoderStateMachine #1] WARNING: Decoder=7f178468f900 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 16309, MediaDecoderStateMachine #1] WARNING: Decoder=7f1784690200 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 16309, MediaDecoderStateMachine #1] WARNING: Decoder=7f1784690500 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 16309, MediaDecoderStateMachine #1] WARNING: Decoder=7f178468ed00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1657866360975	Marionette	INFO	Stopped listening on port 42847
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1657866363889	Marionette	INFO	Stopped listening on port 34271
+1657866382855	geckodriver	INFO	Listening on 127.0.0.1:57823
+1657866383360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerRPh1r"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657866387962	Marionette	INFO	Marionette enabled
+1657866387979	Marionette	INFO	Listening on port 41375
+WebDriver BiDi listening on ws://localhost:58927
+Read port: 41375
+1657866388724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerRPh1r/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:58927/devtools/browser/7d18b111-13bf-4037-bbda-823cda060030
+1657866407844	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-07-15T06:26:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-15T06:26:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-15T06:26:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-15T06:26:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 17762, MediaDecoderStateMachine #1] WARNING: Decoder=7fc47a4f5400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 17762, MediaDecoderStateMachine #1] WARNING: Decoder=7fc47a4f5a00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 17762, MediaDecoderStateMachine #1] WARNING: Decoder=7fc47a4f5d00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 17762, MediaDecoderStateMachine #1] WARNING: Decoder=7fc48234c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-GZELyl/firefox-102.0+build2/dom/media/MediaDecoderStateMachineBase.cpp:151
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1657866543932	Marionette	INFO	Stopped listening on port 41375
